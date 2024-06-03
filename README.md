@@ -36,21 +36,13 @@ Folder Structure
 The data for the Amharic monolingual dataset is organized within the data folder, structured to facilitate easy access and management of various text sources. Below is the detailed structure of the data organization:
 
 data/
-│
 ├── news.txt                            # Contains text files from news sources
-│
 ├── bibel.txt                           # Contains text files from the Bible
-│   
 ├── jw.txt                              # Contains text files from JW publications
-│ 
 ├── wikipedia.txt                       # Contains extracted text files from Wikipedia
-│   
 ├── additional_data.txt                 # Contains extracted text files from googlue and soccerethiopia news websites
-│
 ├── geezorg_religious.txt               # Contains extracted text files from geez.org religious content
-│
 └── geezorg_nonreligious.txt            # Contains text files extracted from geez.org news domain
-    
 
 
 NOTE
